@@ -39,6 +39,7 @@
         text-decoration: none;
         text-decoration-line: none;
         font-weight: bold;
+        opacity: 0%;
     }
     
     h1:hover {
