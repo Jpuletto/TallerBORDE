@@ -1,2 +1,3 @@
 # TallerBORDE
-Landing
+## Proyecto de web para Taller
+Landing :hammer:
