@@ -153,6 +153,16 @@
         }
     }
     
+    @media only screen and (max-width: 375px) {
+        #Facebook {
+            background-position: top center;
+            position: absolute;
+            top: 1680px;
+            height: 52px;
+            left: 600px;
+        }
+    }
+    
     #Instagram {
         background-position: top center;
         background-size: cover;
@@ -244,7 +254,7 @@
         left: 610px;
     }
     
-    @media only screen and (max-width: 126+0px) {
+    @media only screen and (max-width: 1366px) {
         #Logo {
             background-position: top center;
             position: absolute;
